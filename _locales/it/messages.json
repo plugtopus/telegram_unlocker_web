@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "This extension allows you to bypass the Telegram blocking in Russian Federation"
+   },
+   "name": {
+      "message": "Telegram unblock"
+   },
+   "shortname": {
+      "message": "Telegram"
+   },
+   "title": {
+      "message": "Telegram unblock"
+   }
+}

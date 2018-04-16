@@ -1,8 +1,14 @@
 {
-    "description": {
-        "message": "Раблокировать Telegram в России"
+    "desc": {
+        "message": "Это расширение позволяет снять блокировку Telegram в РФ"
     },
     "name": {
-        "message": "Разблокировать Telegram"
+        "message": "Обход блокировки Telegram"
+    },
+    "shortname": {
+        "message": "Telegram"
+    },
+    "title": {
+        "message": "Обход блокировки Telegram"
     }
 }
